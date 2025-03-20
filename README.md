@@ -127,7 +127,3 @@ AI is **revolutionizing cybersecurity**, from **threat detection** to **automate
 
 🚀 **Start your AI-powered Cybersecurity journey today!** 😃  
 
----
-
-### Want More Hands-On AI Security Challenges?  
-Let me know if you need **practice labs, datasets, or AI-based CTF challenges**! 🔥
